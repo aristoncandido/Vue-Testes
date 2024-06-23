@@ -1,4 +1,4 @@
-# 2-projeto-vue
+# Estudos Vue
 
 ## Project setup
 ```
